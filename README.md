@@ -6,3 +6,4 @@ Every day, a few files are automatically dropped in a specific folder,
 and this script will run on that folder and appropriately log the changees.
 
 
+run2.sh is the most up do date script--the other three will work, but they are not as clean nor easy to look at haha
